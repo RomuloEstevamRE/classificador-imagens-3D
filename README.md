@@ -17,4 +17,10 @@ Este projeto usa Deep Learning com redes neurais convolucionais (CNN) para class
 \- Previsão de novas imagens (fora do dataset)
 
 
+ como instalar dependências:
+ pip install -r requieriments.txt
+
+ com oexecutar o modelo:
+ python classificador.py
+
 
