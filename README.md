@@ -2,7 +2,7 @@ Classificador de Impressões 3D com CNN (PyTorch)
 
 
 
-Este projeto usa Deep Learning com redes neurais convolucionais (CNN) para classificar imagens de peças impressas em 3D como: \*chaveiros, estatuetas e engrenagens\*.
+Este projeto usa Deep Learning com redes neurais convolucionais (CNN) para classificar imagens de peças impressas em 3D como: \*chaveiros, estatuetas e jarros\*.
 
 
 
